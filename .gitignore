@@ -1,3 +1,4 @@
-src/
-public/
 components/
+store/
+public/
+node_modules/
